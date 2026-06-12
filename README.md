@@ -46,32 +46,6 @@ Desenvolvedor Full Stack • Construindo soluções modernas da interface ao ban
 
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="20"/> MySQL
 
-## 🛠️ Tecnologias e Ferramentas
-
-### Frontend
-
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="20"/> HTML
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="20"/> CSS
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="20"/> JavaScript
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="20"/> TypeScript
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="20"/> React
-- <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="20"/> Next.js
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vitejs/vitejs-original.svg" width="20"/> Vite
-- <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="20"/> Tailwind CSS
-- <img src="https://avatars.githubusercontent.com/u/139895814?s=200&v=4" width="20"/> Shadcn/UI
-
-### Backend
-
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="20"/> Node.js
-- <img src="https://cdn.worldvectorlogo.com/logos/fastify.svg" width="20"/> Fastify
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="20"/> Express.js
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="20"/> PHP
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="20"/> Python
-
-### Banco de Dados
-
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="20"/> MySQL
-
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
