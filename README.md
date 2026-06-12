@@ -1,16 +1,42 @@
-## Hi there 👋
+# Joede de Jesus Divovo Joaquim
 
-<!--
-**joedejoaquim/joedejoaquim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### Desenvolvedor Full Stack • Construindo soluções modernas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Sobre Mim
+
+Sou desenvolvedor Full Stack focado em aplicações web modernas.
+
+Tenho experiência com:
+
+- React
+- Next.js
+- MySQL
+- Tailwind CSS
+- Git e GitHub
+
+## Tecnologias
+
+### Frontend
+
+- HTML
+- CSS
+- JavaScript
+- ReactJs
+- Tailwind CSS
+
+### Backend
+
+- Fastify
+- Node.js
+- MySQL
+- PHP
+- Next.js
+- Express.js
+
+### Ferramentas
+
+- Git
+- GitHub
+- VS Code
