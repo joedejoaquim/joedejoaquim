@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou Joede Joaquim 👋</h1>
+<h1 align="center">Olá, eu sou Joede de Jesus Divovo Joaquim 👋</h1>
 
 <h3 align="center">
 Desenvolvedor Full Stack • Construindo soluções modernas da interface ao banco de dados
@@ -97,7 +97,7 @@ Desenvolvedor Full Stack • Construindo soluções modernas da interface ao ban
 ## 📫 Contacto
 
 - GitHub: https://github.com/joedejoaquim
-- Email: seu-email@exemplo.com
+- Email: joedejoaquim4357@gmail.com
 
 ---
 
