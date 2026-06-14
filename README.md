@@ -65,7 +65,7 @@ Desenvolvedor Full Stack • Construindo soluções modernas da interface ao ban
 
 - GitHub: https://github.com/joedejoaquim
 - Email: joedejoaquim4357@gmail.com
-- WhatsApp: wa.me/+244934344265
+- WhatsApp: https://wa.me/+244934344265
 ---
 
 ### 💡 Filosofia
