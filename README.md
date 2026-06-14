@@ -41,10 +41,12 @@ Desenvolvedor Full Stack • Construindo soluções modernas da interface ao ban
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="20"/> Express.js
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="20"/> PHP
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="20"/> Python
-
+- <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="20"/> Next.js
 ### Banco de Dados
 
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="20"/> MySQL
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="20"/> PostgreSQL
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" width="20"/> SQLite
 
 ## 📊 Estatísticas do GitHub
 
